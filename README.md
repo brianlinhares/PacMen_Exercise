@@ -15,8 +15,8 @@ Feel free to create as many Pacmen as you like by clicking the [Add PacMan] butt
   *Because the [Start Game] button has already been clicked, the new Pacmen will automatically start moving upon creation.
 
 **Roadmap of Future Improvements**
-Allow the creation of different images
-Create a button to control speed and reverse direction.
+I plan on updating the image portion of the code to allow the creation of different images. When the [Add PacMan] button is pressed, it will generate different images of PacMan. 
+This new button will allow the user to control the speed of the PacMen and reverse their direction.
 
 **License Information**
 MIT License
